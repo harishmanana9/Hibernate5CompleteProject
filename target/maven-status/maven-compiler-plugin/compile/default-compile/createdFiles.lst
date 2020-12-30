@@ -1,0 +1,6 @@
+com\spring\service\ProductServiceImpl.class
+com\spring\dao\ProductDaoImpl.class
+com\spring\service\ProductService.class
+com\spring\dao\ProductDao.class
+com\spring\app\ProductHibernateApp.class
+com\spring\entity\Product.class
