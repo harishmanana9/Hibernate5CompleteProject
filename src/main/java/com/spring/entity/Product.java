@@ -1,5 +1,7 @@
 package com.spring.entity;
 
+//This is Entity Class
+
 import javax.persistence.Column;
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
